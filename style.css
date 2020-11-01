@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.Grade{
+margin-top: 463px;
+margin-left: 720px;
+
+}
